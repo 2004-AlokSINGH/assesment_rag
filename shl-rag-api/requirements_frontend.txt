@@ -1,0 +1,5 @@
+# Minimal requirements for the Streamlit frontend only.
+# No torch, no transformers, no faiss — just UI + HTTP calls.
+# Total install size: ~50 MB (vs ~1.7 GB for the full backend)
+streamlit>=1.40.0
+requests>=2.31.0
