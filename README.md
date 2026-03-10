@@ -28,7 +28,7 @@ Recruiters can describe a role's requirements in plain English, and the system r
 ### This repo contains all codes
 #### 1. scrapper : for scrapping data
 #### 2. frontend 
-#### 3. shl-rag-api : Used ad backedn
+#### 3. shl-rag-api : Used as backend
 
 Working Snapshots:
 <img width="960" height="438" alt="image" src="https://github.com/user-attachments/assets/d94847bc-6e55-4488-b4ad-4fde66dba37c" />
