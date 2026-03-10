@@ -14,7 +14,7 @@
 
 ## Overview
 
-The **SHL Assessment Recommendation System** is an intelligent HR tool that uses Retrieval-Augmented Generation (RAG) to recommend relevant SHL (Saville and Holdsworth) psychometric assessments based on hiring queries or job descriptions.
+The **SHL Assessment Recommendation System** is an intelligent HR tool that uses Retrieval-Augmented Generation (RAG) to recommend relevant SHL psychometric assessments based on hiring queries or job descriptions.
 
 ### What It Does
 - **Input**: Natural language job description or hiring query (e.g., "Need a Java developer good at collaborating with teams")
